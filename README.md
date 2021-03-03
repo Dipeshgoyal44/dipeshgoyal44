@@ -9,7 +9,7 @@
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I speak 3 languages ( English, Hindi, French (a little, still learning))
 
-<br />
+
 
 ### Languages and Tools:
 
@@ -29,11 +29,15 @@
 
 
 <br />
-
-<img align="left" alt="Dipesh's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipeshgoyal44" />
-<img align="left" alt="Dipesh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dipeshgoyal44&show_icons=true&hide_border=true" />
+<br />
 
 
+
+
+
+
+![Github Stats Card](https://github-readme-stats.vercel.app/api?username=Dipeshgoyal44&count_private=true&show_icons=true&theme=react&hide=stars,prs,issues)
+![Compact Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipeshgoyal44&layout=compact&count_private=true&theme=react&hide=visual%20basic%20.net,shell,hack)
 
 
 [website]: https://dipeshgoyal.me/
