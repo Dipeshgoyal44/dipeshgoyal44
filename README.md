@@ -36,8 +36,9 @@
 
 
 
-![Github Stats Card](https://github-readme-stats.vercel.app/api?username=Dipeshgoyal44&count_private=true&show_icons=true&theme=react&hide=stars,prs,issues)
+![Github Stats Card](https://github-readme-stats.vercel.app/api?username=Dipeshgoyal44&count_private=true&show_icons=true&theme=react&hide=prs,issues)
 ![Compact Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipeshgoyal44&layout=compact&count_private=true&theme=react&hide=visual%20basic%20.net,shell,hack)
+
 
 
 [website]: https://dipeshgoyal.me/
