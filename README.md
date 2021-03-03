@@ -40,8 +40,6 @@
 
 ![Compact Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipeshgoyal44&layout=compact&count_private=true&theme=react)
 
-
-
 [website]: https://dipeshgoyal.me/
 [twitter]: https://twitter.com/Dipeshgoyal44
 [linkedin]: https://www.linkedin.com/in/dipeshgoyal44/
