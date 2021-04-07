@@ -1,8 +1,5 @@
 ### Hello World, I'm Dipesh  👋
 
-
-
-## I'm studying Computer Science. 
 - ✍ You can find my projects here.
 - 🌱 I’m currently learning Python and Web Development
 - 👯 I’m looking to collaborate on open source
